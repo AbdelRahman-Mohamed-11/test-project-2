@@ -8,4 +8,4 @@ console.log("The sum of x and y is: " + z);
 console.log(z);
 
 console.log(x + y + z + 10 - 1);
-console.log("hello new push for -u");
+console.log("push for -u");
