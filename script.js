@@ -7,4 +7,4 @@ let z = x + y;
 console.log("The sum of x and y is: " + z);
 console.log(z);
 
-console.log(x + y + z + 10);
+console.log(x + y + z + 10 - 5);
