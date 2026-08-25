@@ -9,3 +9,6 @@ console.log(z);
 
 console.log(x + y + z + 10 - 1);
 console.log("push for -u");
+
+// This is a comment line
+console.log("This is a comment line");
