@@ -9,3 +9,5 @@ console.log(z);
 
 console.log(x + y + z + 10 - 1);
 console.log("push for -u");
+
+console.log("new push")
